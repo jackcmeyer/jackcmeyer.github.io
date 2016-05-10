@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Jack Meyer
+title: Jack Meyer jfkdajfk;ds
 email: jackcmeyer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Software Engineering Student - Developer in Training
+  Software Engineering Student
 baseurl: "/jackcmeyer" # the subpath of your site, e.g. /blog
 url: "http://jackcmeyer.com" # the base hostname & protocol for your site
 
