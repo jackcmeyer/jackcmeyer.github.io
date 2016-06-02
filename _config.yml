@@ -1,0 +1,21 @@
+# Site settings
+title: Jack Meyer
+header-img: img/home-bg.jpg
+email: jackcmeyer@gmail.com
+copyright_name: Jack Meyer
+description: "Jack Meyer"
+baseurl: ""
+url: "http://jackcmeyer.com"
+twitter_username: jackcmeyer
+github_username:  jackcmeyer
+facebook_username:  IronSummitMedia
+email_username:  jackcmeyer@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
