@@ -58,19 +58,19 @@
                 <li>
                     <a href="/">Home</a>
                 </li>
-
-
+                
+				
                 <li>
                     <a href="/about/">About</a>
                 </li>
-
-
-
+				
+                
+				
                 <li>
                     <a href="/contact/">Contact</a>
                 </li>
-
-
+				
+                
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -87,7 +87,7 @@
                 <div class="site-heading">
                     <h1>Contact</h1>
                     <hr class="small">
-                    <span class="subheading">Shoot your questions my way!</span>
+                    <span class="subheading">Have questions? I have answers (maybe).</span>
                 </div>
             </div>
         </div>
@@ -102,7 +102,7 @@
 <!-- Contact Form - Enter your email address on line 19 of the mail/contact_me.php file to make this form work. -->
 <!-- WARNING: Some web hosts do not allow emails to be sent through forms to common mail hosts like Gmail or Yahoo. It's recommended that you use a private domain email address! -->
 <!-- NOTE: To use the contact form, your site must be on a live web host with PHP! The form will not work locally! -->
-<form name="sentMessage" id="contactForm" action="https://formspree.io/jackcmeyer@gmail.com" method="POST">
+<form name="sentMessage" id="contactForm" novalidate>
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label>Name</label>
@@ -113,7 +113,7 @@
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label>Email Address</label>
-            <input type="email" class="form-control" placeholder="Email Address" id="email" name="_replyto" required data-validation-required-message="Please enter your email address.">
+            <input type="email" class="form-control" placeholder="Email Address" id="email" name="email" required data-validation-required-message="Please enter your email address.">
             <p class="help-block text-danger"></p>
         </div>
     </div>
@@ -135,7 +135,7 @@
     <div id="success"></div>
     <div class="row">
         <div class="form-group col-xs-12">
-            <input type="submit" value="Send"></input>
+            <button type="submit" class="btn btn-default">Send</button>
         </div>
     </div>
 </form>
@@ -161,7 +161,7 @@
                             </span>
                         </a>
                     </li>
-
+                    
                     <li>
                         <a href="https://twitter.com/jackcmeyer">
                             <span class="fa-stack fa-lg">
@@ -170,8 +170,8 @@
                             </span>
                         </a>
                     </li>
-
-
+                    
+                    
                     <li>
                         <a href="https://www.facebook.com/IronSummitMedia">
                             <span class="fa-stack fa-lg">
@@ -180,8 +180,8 @@
                             </span>
                         </a>
                     </li>
-
-
+                    
+                    
                     <li>
                         <a href="https://github.com/jackcmeyer">
                             <span class="fa-stack fa-lg">
@@ -190,8 +190,8 @@
                             </span>
                         </a>
                     </li>
-
-
+                    
+                    
                     <li>
                         <a href="mailto:jackcmeyer@gmail.com">
                             <span class="fa-stack fa-lg">
@@ -200,7 +200,7 @@
                             </span>
                         </a>
                     </li>
-
+                    
                 </ul>
                 <p class="copyright text-muted">Copyright &copy; Jack Meyer 2016</p>
             </div>
