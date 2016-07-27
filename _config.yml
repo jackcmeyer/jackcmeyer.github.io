@@ -8,8 +8,8 @@ baseurl: ""
 url: "http://jackcmeyer.com"
 twitter_username: jackcmeyer
 github_username:  jackcmeyer
-facebook_username:  IronSummitMedia
 email_username:  jackcmeyer@gmail.com
+linkedin_username: jackcmeyer
 
 # Build settings
 markdown: kramdown
