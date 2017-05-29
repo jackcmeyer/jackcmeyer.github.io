@@ -1,0 +1,9 @@
+---
+layout: experience
+title: "Iowa State Computer Science and Sofware Engineering Club"
+subtitle: "President"
+description: "Ames, Iowa (May 2016 - May 2017)"
+category: "experience"
+author: "Jack Meyer"
+---
+<!-- Start Writing Below in Markdown -->

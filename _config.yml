@@ -38,30 +38,20 @@ defaults:
     values:
       layout: "project"
       header-img: "img/home-bg.jpg"
+    scope:
+      path: "experiences"
+      type: "post"
+    values:
+      layout: "experience"
+      header-img: "img/minneapolis_skyline2.jpg"
 
 # Prose Settings
 prose:
   ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','LICENSES.md','README.md','colorscheme.scss','members.html','mentions.html','index.html']
-  siteurl: 'http://projectpages.github.io/project-pages/'
+  siteurl: 'www.jackcmeyer.com'
   ispp: true
   media: 'img'
   metadata:
-    projects:
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "description"
-        field:
-          element: "text"
-          label: "Description"
-          value: ""
-      - name: "category"
-        field:
-          element: "text"
-          label: "Project"
-          value: ""
     _posts:
       - name: "subtitle"
         field:
