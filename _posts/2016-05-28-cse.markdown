@@ -7,3 +7,13 @@ category: "experience"
 author: "Jack Meyer"
 ---
 <!-- Start Writing Below in Markdown -->
+* Unanimously elected President of the Iowa State Computer Science and Software Engineering club by my peers in the club
+
+* Planned and hosted one of the largest club events in recent history; with over 110 people in attendance
+
+* Tripled the end-of-the-year attendance compared to the previous year
+
+* Worked closely with factuly, industry members, and students to plan and execute events
+
+* Presented several technical presentations, including talks on Spring Boot and 
+the MEAN stack.

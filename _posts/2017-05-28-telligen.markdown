@@ -7,3 +7,10 @@ category: "experience"
 author: "Jack Meyer"
 ---
 <!-- Start Writing Below in Markdown -->
+* Worked on a web application which allows measure developers to create and export health quality measures
+
+* Helped develop an application which allows non-technical users use a domain specific programming language to create health record queries
+
+* Developed new features, using Java Spring, Google Web Toolkit, and MySQL, which adhered to strict specifications
+
+* Modified and implemented an open source project to increase usability in the application

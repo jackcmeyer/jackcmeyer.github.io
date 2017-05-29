@@ -1,0 +1,16 @@
+---
+layout: experience
+title: "New Prague Basketball"
+subtitle: "Student Assistant Coach"
+description: "New Prague, Minnesota (November 2012 - June 2015)"
+category: "experience"
+author: "Jack Meyer"
+---
+<!-- Start Writing Below in Markdown -->
+* Assisted in facilitating basketball camps for approximately 70 student-athletes, aging from kindergarten to high school sophomores
+
+* Demonstrated, instructed, and clarified basketball skills and drills for small groups of 5-15 players
+
+* Prepared practice plans to promote the improvement of the player and of the team.
+
+* Identified weaknesses of the players and of the team and suggested new ideas to eliminate their weakness. 

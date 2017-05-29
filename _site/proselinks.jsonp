@@ -1,13 +1,23 @@
 callback([
 
   {
-    "text": "New Post",
-    "href": "http://localhost:4000/blog/2016/04/19/New-Post/"
+    "text": "New Prague Basketball",
+    "href": "http://localhost:4000/experience/2015/06/01/coach/"
+  } ,
+
+  {
+    "text": "Super America",
+    "href": "http://localhost:4000/experience/2015/08/01/superamerica/"
   } ,
 
   {
     "text": "Iowa State Computer Science and Sofware Engineering Club",
     "href": "http://localhost:4000/experience/2016/05/28/cse/"
+  } ,
+
+  {
+    "text": "Wikipedia Quick Search",
+    "href": "http://localhost:4000/project/2016/06/01/wikipedia-quick-search/"
   } ,
 
   {
@@ -23,6 +33,11 @@ callback([
   {
     "text": "Telligen",
     "href": "http://localhost:4000/experience/2017/05/28/telligen/"
+  } ,
+
+  {
+    "text": "Smart Sync",
+    "href": "http://localhost:4000/project/2017/05/29/smartsync/"
   } 
 
 ])

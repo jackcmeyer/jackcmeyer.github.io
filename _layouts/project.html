@@ -13,7 +13,7 @@ layout: default
 					<img src= "{{ site.logo }}" style="height: 150px">
 					{% endif %}
 					{% else %}{% endif %}
-                    <h1>Experience</h1>
+                    <h1>Projects</h1>
                     <hr class="small">
                 </div>
             </div>
@@ -22,16 +22,25 @@ layout: default
 </header>
 <!-- Post Content -->
 <article>
-  <h1>{{ page.title }}</h1>
-  {% if page.subtitle %}
-  <h2 class="subheading">{{ page.subtitle }}</h2>
-  {% endif %}
-  <span class="meta">Posted by {{ page.author }} on {{ page.date | date: "%B %-d, %Y" }}</span>
+
     <div id="content" class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+              <h2 class="post-title">{{ page.title }}</h1>
+              <h3 class="post-subtitle">{{ page.subtitle }}</h2>
 
-				{{ content | markdownify }}
+              {% if page.github %}
+              <h4 class="meta"><a href="{{page.github}}"><i class="fa fa-github"></i> {{page.github}}</a></h4>
+              {% endif %}
+              {% if page.github2 %}
+              <h4 class="meta"><a href="{{page.github2}}"><i class="fa fa-github"></i> {{page.github2}}</a></h4>
+              {% endif %}
+
+              {% if page.website %}
+              <h4 class="meta"><a href="{{page.website}}"><i class="fa fa-globe"></i> {{page.website}}</a></h4>
+              {% endif %}
+
+              {{ content | markdownify }}
 
             </div>
         </div>

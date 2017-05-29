@@ -5,13 +5,63 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 28 May 2017 21:02:19 -0500</pubDate>
-    <lastBuildDate>Sun, 28 May 2017 21:02:19 -0500</lastBuildDate>
+    <pubDate>Mon, 29 May 2017 01:26:57 -0500</pubDate>
+    <lastBuildDate>Mon, 29 May 2017 01:26:57 -0500</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Smart Sync</title>
+        <description>
+
+  
+    Built with Spring Boot and Angular 2, using a microservice architecture to give faster response times to the user.
+  
+  
+    Gives users the ability to create a household to synchronize calendars and to-do lists
+  
+  
+    Includes a fully customizable, dashboard like interface for the user to view their household’s information
+  
+  
+    Collaborated with 3 other groups members to design, implement, and test features in the application
+  
+  
+    Click here to view the architecture document
+  
+  
+    Click here to view the server side code
+  
+  
+    Click here to view the client side code
+  
+
+</description>
+        <pubDate>Mon, 29 May 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/project/2017/05/29/smartsync/</link>
+        <guid isPermaLink="true">http://localhost:4000/project/2017/05/29/smartsync/</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
     
       <item>
         <title>Telligen</title>
         <description>
+
+  
+    Worked on a web application which allows measure developers to create and export health quality measures
+  
+  
+    Helped develop an application which allows non-technical users use a domain specific programming language to create health record queries
+  
+  
+    Developed new features, using Java Spring, Google Web Toolkit, and MySQL, which adhered to strict specifications
+  
+  
+    Modified and implemented an open source project to increase usability in the application
+  
+
 </description>
         <pubDate>Sun, 28 May 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/experience/2017/05/28/telligen/</link>
@@ -25,6 +75,23 @@
       <item>
         <title>Salon Manager</title>
         <description>
+
+  
+    A business solution developed for a client to help manage and organize business expenses, appointments, and client     information.
+  
+  
+    Uses the Google Calendar API to ease the stress of scheduling clients.
+  
+  
+    Includes a Mongo database to quickly fetch and organize client information.
+  
+  
+    Accurately tracks business expenses, prints monthly and yearly reports for end of the year taxes.
+  
+  
+    Currently working on converting the application from NodeJS/Angular/MongoDB to Java (Spring Boot), Angular 2, and MySQL. This should create a better user experience for the user and be more maintainable in the future. You can follow the transition here.
+  
+
 </description>
         <pubDate>Sun, 28 May 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/project/2017/05/28/salonmanager/</link>
@@ -38,6 +105,23 @@
       <item>
         <title>Iowa State Software Engineering Department</title>
         <description>
+
+  
+    Helped kickstart the peer mentor program for the Iowa State Software Engineering department by being selected to be in the first group of peer mentors
+  
+  
+    Guided and mentored a small group of 20 freshmen through their first year at the university
+  
+  
+    Provided advice to freshmen, including advice about course scheduling, life on campus, and social issues
+  
+  
+    Assisted students with their troubles in their introduction to programming courses, including Introduction to Python, C, and Java
+  
+  
+    Presented on technical topics such as Python Tips and Tricks, Introduction to GIT, and Introduction to HTML/CSS
+  
+
 </description>
         <pubDate>Sat, 27 May 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/experience/2017/05/27/peermentor/</link>
@@ -49,8 +133,50 @@
       </item>
     
       <item>
+        <title>Wikipedia Quick Search</title>
+        <description>
+
+  
+    Google Chrome Extension which allows a user to highlight a word on a webpage and do a quick Wikipedia search.
+  
+  
+    Uses the Chrome Message Passing API to allow the extension to communicate with the webpage.
+  
+  
+    Injects a Content Script into the current webpage to allow the value of the highlighted text to be sent back to the extension.
+  
+
+</description>
+        <pubDate>Wed, 01 Jun 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/project/2016/06/01/wikipedia-quick-search/</link>
+        <guid isPermaLink="true">http://localhost:4000/project/2016/06/01/wikipedia-quick-search/</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
         <title>Iowa State Computer Science and Sofware Engineering Club</title>
         <description>
+
+  
+    Unanimously elected President of the Iowa State Computer Science and Software Engineering club by my peers in the club
+  
+  
+    Planned and hosted one of the largest club events in recent history; with over 110 people in attendance
+  
+  
+    Tripled the end-of-the-year attendance compared to the previous year
+  
+  
+    Worked closely with factuly, industry members, and students to plan and execute events
+  
+  
+    Presented several technical presentations, including talks on Spring Boot and 
+the MEAN stack.
+  
+
 </description>
         <pubDate>Sat, 28 May 2016 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/experience/2016/05/28/cse/</link>
@@ -62,194 +188,53 @@
       </item>
     
       <item>
-        <title>New Post</title>
+        <title>Super America</title>
         <description>
 
-Table of Contents
-
-
-  Table of Contents
-  Basic Functionality    
-      Headers
-    
   
-  Header 1    
-      Header 2        
-          Header 3
-        
-      
-      Styling
-      Lists
-      Links
-      Images
-      Code
-      MathJax
-      Tables
-      Quotes
-      Rule
-      HTML
-    
-  
-  Advanced Functionality    
-      Color and Alignment
-    
-  
-  Some Advanced Features    
-      Data Projector
-      STL
-    
-  
-
-
-Basic Functionality
-
-Headers
-
-Header 1
-
-Header 2
-
-Header 3
-
-Styling
-
-Bold
-
-Italics
-
-Bold and Italics
-
-Lists
-
-
-  
-    Item 1
+    Responded to customer complaints and swiftly resolved their issues to ensure and maintain customer satisfaction.
   
   
-    Item 2
-  
-
-
-
-  
-    Unordered Item
-
-    
-      
-        Sub Item 1
-
-        
-          Bold Sub Sub Ordered Item
-        
-      
-    
-  
-
-
-Links
-
-In-Line
-
-I’m a reference-style link 1
-
-I’m a reference-style link 1
-
-Images
-
-Hold your pointer clicked over the image to expand the view.
-
-
-
-Code
-
-Inline code.
-
-import numpy as np
-def hello_world():
-    print('Hello World!'')
-
-MathJax
-
-Use MathJax for Math.
-
-
-Tables
-
-
-  
-    
-      Here
-      is
-      a
-      row!
-    
+    Assisted with checking in vendors to guarantee the correctness of their delivery of up to $10,000 in product.
   
   
-    
-      is
-      Left
-      Center
-      Right
-    
-    
-      a
-      cut
-      it
-      A
-    
-    
-      column
-      short
-      B
-      C
-    
+    Interacted with corporate managers to ensure the functionality of the store is to their operational standards.
   
-
-
-Quotes
-
-
-  War does not decide who is right, only who is left.
-
-
-Rule
-
-
-
-HTML
-
-Can write the whole post or sections in HTML for very specific needs. [For the advanced user or the code savvy.]
-
-Advanced Functionality
-
-Head over to the documentation page for tutorials on some basic html formatting and some extensions you can use for cool stuff like interactive 3D visualizations.
-
-Color and Alignment
-
-This text is centered.
-
-This is a red text with blue and green inline text.
-
-Some Advanced Features
-
-Data Projector
-
-
-
-STL
-
 
 </description>
-        <pubDate>Tue, 19 Apr 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/2016/04/19/New-Post/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/04/19/New-Post/</guid>
-        
-        <category>post</category>
-        
-        <category>template</category>
+        <pubDate>Sat, 01 Aug 2015 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/experience/2015/08/01/superamerica/</link>
+        <guid isPermaLink="true">http://localhost:4000/experience/2015/08/01/superamerica/</guid>
         
         
-        <category>blog</category>
+        <category>experience</category>
+        
+      </item>
+    
+      <item>
+        <title>New Prague Basketball</title>
+        <description>
+
+  
+    Assisted in facilitating basketball camps for approximately 70 student-athletes, aging from kindergarten to high school sophomores
+  
+  
+    Demonstrated, instructed, and clarified basketball skills and drills for small groups of 5-15 players
+  
+  
+    Prepared practice plans to promote the improvement of the player and of the team.
+  
+  
+    Identified weaknesses of the players and of the team and suggested new ideas to eliminate their weakness.
+  
+
+</description>
+        <pubDate>Mon, 01 Jun 2015 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/experience/2015/06/01/coach/</link>
+        <guid isPermaLink="true">http://localhost:4000/experience/2015/06/01/coach/</guid>
+        
+        
+        <category>experience</category>
         
       </item>
     
