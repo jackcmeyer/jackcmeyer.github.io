@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 29 May 2017 16:27:29 -0500</pubDate>
-    <lastBuildDate>Mon, 29 May 2017 16:27:29 -0500</lastBuildDate>
+    <pubDate>Mon, 29 May 2017 21:31:06 -0500</pubDate>
+    <lastBuildDate>Mon, 29 May 2017 21:31:06 -0500</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -173,7 +173,7 @@
     Worked closely with factuly, industry members, and students to plan and execute events
   
   
-    Presented several technical presentations, including talks on Spring Boot and 
+    Presented several technical presentations, including talks on Spring Boot and
 the MEAN stack.
   
 

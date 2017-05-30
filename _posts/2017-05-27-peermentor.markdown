@@ -2,7 +2,7 @@
 layout: experience
 title: "Iowa State Software Engineering Department"
 subtitle: "Peer Mentor"
-description: "Ames, Iowa (August 2016 - Present)"
+description: "August 2016 - Present"
 category: "experience"
 author: "Jack Meyer"
 ---

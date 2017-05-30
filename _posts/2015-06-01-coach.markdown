@@ -2,7 +2,7 @@
 layout: experience
 title: "New Prague Basketball"
 subtitle: "Student Assistant Coach"
-description: "New Prague, Minnesota (November 2012 - June 2015)"
+description: "November 2012 - June 2015"
 category: "experience"
 author: "Jack Meyer"
 ---
@@ -13,4 +13,4 @@ author: "Jack Meyer"
 
 * Prepared practice plans to promote the improvement of the player and of the team.
 
-* Identified weaknesses of the players and of the team and suggested new ideas to eliminate their weakness. 
+* Identified weaknesses of the players and of the team and suggested new ideas to eliminate their weakness.

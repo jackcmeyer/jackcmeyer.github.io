@@ -2,7 +2,7 @@
 layout: experience
 title: "Super America"
 subtitle: "Customer Service Associate"
-description: "New Prague, Minnesota (May 2014 - August 2015)"
+description: May 2014 - August 2015"
 category: "experience"
 author: "Jack Meyer"
 ---

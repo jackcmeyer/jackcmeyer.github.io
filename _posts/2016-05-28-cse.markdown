@@ -2,7 +2,7 @@
 layout: experience
 title: "Iowa State Computer Science and Sofware Engineering Club"
 subtitle: "President"
-description: "Ames, Iowa (May 2016 - May 2017)"
+description: "May 2016 - May 2017"
 category: "experience"
 author: "Jack Meyer"
 ---
@@ -15,5 +15,5 @@ author: "Jack Meyer"
 
 * Worked closely with factuly, industry members, and students to plan and execute events
 
-* Presented several technical presentations, including talks on Spring Boot and 
+* Presented several technical presentations, including talks on Spring Boot and
 the MEAN stack.
