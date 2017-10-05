@@ -1,0 +1,9 @@
+---
+layout: project
+title: "hammer.io"
+subtitle: "An opinionated approach to managing DevOps for a Node.js microservices application."
+category: "project"
+author: "Jack Meyer"
+github: "https://github.com/hammer-io/"
+---
+<!-- Start Writing Below in Markdown -->

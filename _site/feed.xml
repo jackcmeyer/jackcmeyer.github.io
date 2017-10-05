@@ -5,9 +5,48 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 13 Aug 2017 13:17:06 -0500</pubDate>
-    <lastBuildDate>Sun, 13 Aug 2017 13:17:06 -0500</lastBuildDate>
-    <generator>Jekyll v3.4.3</generator>
+    <pubDate>Thu, 05 Oct 2017 16:14:47 -0500</pubDate>
+    <lastBuildDate>Thu, 05 Oct 2017 16:14:47 -0500</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>hammer.io</title>
+        <description>
+</description>
+        <pubDate>Thu, 05 Oct 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/project/2017/10/05/hammerio/</link>
+        <guid isPermaLink="true">http://localhost:4000/project/2017/10/05/hammerio/</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>A Reflection: My General Education at Iowa State University</title>
+        <description>
+</description>
+        <pubDate>Thu, 05 Oct 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/2017/10/05/general-education-reflection/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2017/10/05/general-education-reflection/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>A Reflection: My Cumulative Education at Iowa State University</title>
+        <description>
+</description>
+        <pubDate>Thu, 05 Oct 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/2017/10/05/cumulative-education-reflection/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2017/10/05/cumulative-education-reflection/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Smart Sync</title>
@@ -205,33 +244,6 @@ the MEAN stack.
         <pubDate>Sat, 01 Aug 2015 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/experience/2015/08/01/superamerica/</link>
         <guid isPermaLink="true">http://localhost:4000/experience/2015/08/01/superamerica/</guid>
-        
-        
-        <category>experience</category>
-        
-      </item>
-    
-      <item>
-        <title>New Prague Basketball</title>
-        <description>
-
-  
-    Assisted in facilitating basketball camps for approximately 70 student-athletes, aging from kindergarten to high school sophomores
-  
-  
-    Demonstrated, instructed, and clarified basketball skills and drills for small groups of 5-15 players
-  
-  
-    Prepared practice plans to promote the improvement of the player and of the team.
-  
-  
-    Identified weaknesses of the players and of the team and suggested new ideas to eliminate their weakness.
-  
-
-</description>
-        <pubDate>Mon, 01 Jun 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/experience/2015/06/01/coach/</link>
-        <guid isPermaLink="true">http://localhost:4000/experience/2015/06/01/coach/</guid>
         
         
         <category>experience</category>

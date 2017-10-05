@@ -38,6 +38,21 @@ callback([
   {
     "text": "Smart Sync",
     "href": "http://localhost:4000/project/2017/05/29/smartsync/"
+  } ,
+
+  {
+    "text": "A Reflection: My Cumulative Education at Iowa State University",
+    "href": "http://localhost:4000/blog/2017/10/05/cumulative-education-reflection/"
+  } ,
+
+  {
+    "text": "A Reflection: My General Education at Iowa State University",
+    "href": "http://localhost:4000/blog/2017/10/05/general-education-reflection/"
+  } ,
+
+  {
+    "text": "hammer.io",
+    "href": "http://localhost:4000/project/2017/10/05/hammerio/"
   } 
 
 ])
