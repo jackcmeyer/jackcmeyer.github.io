@@ -7,3 +7,12 @@ author: "Jack Meyer"
 github: "https://github.com/hammer-io/"
 ---
 <!-- Start Writing Below in Markdown -->
+[hammer-io](hammer-io.github.io) is a tooling suite for developing microservices in Node.js. I provides a command line application and web application to generate projects, a web application to view statistics about the application, and a monitoring framework to view the status of your application.
+
+Microservice development requires doing many different project configurations, which takes away time from developers from actually working on the part of the application that is going to make money. One of our goals at hammer-io is to eliminate most of the time and issues with project setup by giving you a opinionated, yet customizable, approach to setting up your Node.js application.
+
+With microservice development, instead of one application running in production being developed, there is now many applications. This makes it very difficult to track things like build statuses, open issues, test results, uptime statistics, data flow statistics, or health statuses for the application. Another one of hammer-io's goals is to make this process pain free be curating all of this data into a application.
+
+On the hammer-io team, I lead the Software Architecture conversations, play the role of a tech lead, and a developer on the server side of our tool suite. Through my experience on the team, I have learned what it's like to create a software architecture and maintain and enhance it through the evolution of the project. I also learned how to set up a development workflow through the use of feature branches, pull requests, and code reviews. I learned how to set up a DevOps workflow using GitHub, TravisCI, and Docker. Finally, I learned how to lead a team of developers to complete hammer-io for our client.
+
+Are you curious about our work? You can follow development of our command line application, Tyr, [here](https://github.com/hammer-io/tyr) and our web application, Yggdrasil, [here](https://github.com/hammer-io/yggdrasil). Want to install our command line application? Visit our [npm page](https://www.npmjs.com/package/tyr-cli)!
