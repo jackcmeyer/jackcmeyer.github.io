@@ -5,9 +5,26 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 05 Oct 2017 16:19:28 -0500</pubDate>
-    <lastBuildDate>Thu, 05 Oct 2017 16:19:28 -0500</lastBuildDate>
+    <pubDate>Fri, 01 Dec 2017 14:29:00 -0600</pubDate>
+    <lastBuildDate>Fri, 01 Dec 2017 14:29:00 -0600</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>A Reflection: The Volkswagen Ethical Scandal</title>
+        <description>
+A reflection
+If I were an engineer on the Volkswagen project, I would have tried my hardest to make sure that no ethical violations were happening. To make sure that didn’t happen, I would have tried the following steps to ensure that no violations were happening. First, I would have talked to my direct manager about my findings. I would start here, to make sure that my manager is aware of the issue. If I were to deem that my manager is in on the scheme, then I would go to the HR department of the company. If the HR department doesn’t listen to my concerns, then I would go seek legal help. In the meantime, I would refuse to implement anything that surrounds this algorithm. I would hope that my manager was unaware of what was happening because of naivety and would help resolve the problem. However, if the manager was in on it, I would hope that HR would help out and do what is in the best interest of the company and protect themselves against potential ethical violations. If neither party was willing to help solve the problem, then I would seek legal help and have them bring action against the company to stop the unethical and illegal actions.
+
+I believe that the engineers at Volkswagen continued to implement algorithms they knew were unethical because they had no other options. For example, there might have been clauses in contracts that prevented them from talking to anybody about things that happened at work. This might have scared off many engineers in talking to people outside of the company. Next, there was probably a toxic relationship between developers and middle managers which prevented the engineers from talking with their managers. Without a good relationship between developers and managers, it would be very hard for developers to communicate concerns about the company’s direction and decisions to their manager. Finally, there was probably a lack of options for communicating with the HR department of the company. The engineers probably felt that the HR department was not going to help the engineer and protect the company rather than the employee. They probably felt that if they were to talk to anyone within the company about this ethical violation, they would lose their jobs. This caused everyone to stay quiet and just do the work they were told to do. Which resulted in a huge ethical violation.
+</description>
+        <pubDate>Fri, 01 Dec 2017 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/blog/2017/12/01/ethics-reflection/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2017/12/01/ethics-reflection/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>hammer.io</title>
@@ -25,6 +42,67 @@
       <item>
         <title>A Reflection: My General Education at Iowa State University</title>
         <description>
+A reflection
+Over the course of my 4 years at Iowa State, I have taken many general education courses which helped change and shape my world view and understand engineering problems and how the world may or may not view the solution. As a Software Engineer, the products we create have the ability to change the way people interact with the world, see the world, and use the world. It is important that we are well versed in many different subject areas so we c an fully understand the people that are using our products.
+
+Throughout my career as an engineer, I hope that I have the ability to create solutions which are going to enable people to do things in their lives in ways that they were previously not able to. Right now, my current passion is in healthcare and I hope to create solutions which are going to decrease the cost of medical care, while at the same time raise the standards of care. I hope to work in an environment where everyone shares these goals and where everyone has a passion for developing unique, cutting edge solutions in the healthcare field. I hope to work in a fast-paced paced environment, where we are able to act on changing requirements quickly and efficiently, an environment where people push others to succeed rather than working for their own gain, and an environment which is collaborative, lighthearted, and welcoming.
+
+Taking general education courses have helped me understand the worldview of other people and understand where their views come from. I took a class about the different religions in the United States. This class helped me understand many different religions, and different religions symbols and values. I also took a post-civil war history class which allowed me to get an understanding of how modern America was shaped and what the core values the people in our country have. Finally, I took a philosophy course which allowed to understand the different way people think. These courses allowed me to view an engineering problem in ways that I was not able to before. I can think of a problem and a solution and have a better understanding of how different people interact with the solution. I have more of an understanding of the needs and wants of different people in society and I am able to apply those to the problem I am trying to solve.
+
+I have also learned how to effectively communicate about the problem and solution. Through a technical writing course and speech course, I have gained the skills needed to write clear and concise thoughts. As an engineer, it is important to be able to be able to reason about problems and solution, write about them, and discuss the solution.
+
+When solving engineering problems, it is important to understand how other members of society will view the product. It is also important to understand what people value and what they need, and how the solution can eliminate the user’s needs while making sure to not infringe on their value system. It is always important to consider gender, race, and religion and ensure that any solution doesn’t violate any values that different people of different background may have. Some software engineering application may reach a global audience, so it is important to consider cultures outside my own. My general education classes helped me understand what people from the other parts of the world may be thinking as well.
+
+Overall, my general education classes have had a positive impact on my life inside and outside of engineering. I have gained a clearer picture about different cultures, religions, and genders; different ways of thinking; and United States history.  Finally, I’ve learned how to more effectively communicate my thoughts in writing and in speech.
+
+General Education Courses I’ve Taken
+
+
+  
+    
+      Course Title
+      Course Number
+    
+  
+  
+    
+      The Earth
+      GEOL 101
+    
+    
+      Introduction to Philosophy
+      PHIL 201
+    
+    
+      Survey of United States History II
+      HIST 222
+    
+    
+      Principles of Microeconomics
+      ECON 101
+    
+    
+      Introduction to Weather and Climate
+      MTEOR 206
+    
+    
+      Religion in America
+      RELIG 210
+    
+    
+      Technical Communication
+      ENGL 314
+    
+    
+      Fundamentals of Public Speaking
+      SP CM 212
+    
+    
+      Introduction to Sociology
+      SOC 134
+    
+  
+
 </description>
         <pubDate>Thu, 05 Oct 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/blog/2017/10/05/general-education-reflection/</link>
@@ -51,19 +129,32 @@
       <item>
         <title>Smart Sync</title>
         <description>
+SmartSync is a home management system for synchronizing Internet of Things (IoT)
+devices, family members’ online accounts, and other user applications. It runs
+as a web application, interfacing with various services to provide a more
+efficient home for the modern family. A “dashboard”-style user interface
+lets the family see the status of their household at a glance. The goal of the
+project was to provide a platform that allows user’s to synchronize and manage
+multiple IoT devices and services. SmartSync uses a dashboard style webpage
+which allows the user to view that status of multiple devices/services
+simultaneously.
 
-  
-    Built with Spring Boot and Angular 2, using a microservice architecture to give faster response times to the user.
-  
-  
-    Gives users the ability to create a household to synchronize calendars and to-do lists
-  
-  
-    Includes a fully customizable, dashboard like interface for the user to view their household’s information
-  
-  
-    Collaborated with 3 other groups members to design, implement, and test features in the application
-  
+Throughout the course of this project, we had to consider several different
+aspects. We had to consider how to design an software architecture that was
+capable of interfacing with many third-party services. Another design challenge
+of this project was surrounding the microservice architecture. This was a
+foreign concept to the team going into this project, but we quickly learned
+how to manage and configure several services running in a distributed way. We
+chose the microservice architecture because it gave us the flexibility to
+interface with all of of the services we needed to and allowed us to deploy
+new changes and features without worrying about breaking unrelated parts
+of the project.
+
+This project was built on Spring Boot, Angular 2, and the microservice
+architecture. We designed an API which allows all of the components of the
+project to communicate with one another.
+
+
   
     Click here to view the architecture document
   
@@ -114,23 +205,25 @@
       <item>
         <title>Salon Manager</title>
         <description>
+Salon Manager is a business solution developed for a client to help manager
+and organize business expenses, appointments, and client information. This
+project was designed with small businesses in mind. Salon Manager provides
+a “dashboard”-style UI which allows the user to view all of their information
+in one glance. The goal of the project was to eliminate paper and pen business
+tracking for small businesses who could not afford to upgrade to an expensive
+business solution.
 
-  
-    A business solution developed for a client to help manage and organize business expenses, appointments, and client     information.
-  
-  
-    Uses the Google Calendar API to ease the stress of scheduling clients.
-  
-  
-    Includes a Mongo database to quickly fetch and organize client information.
-  
-  
-    Accurately tracks business expenses, prints monthly and yearly reports for end of the year taxes.
-  
-  
-    Currently working on converting the application from NodeJS/Angular/MongoDB to Java (Spring Boot), Angular 2, and MySQL. This should create a better user experience for the user and be more maintainable in the future. You can follow the transition here.
-  
+Salon Manager was originally built on Node.js, Angular1, and MongoDB. It also
+allows the Google Calendar API to ease the stress of scheduling clients and
+allow the user to take their calendar on the road. However, Salon Manager is
+currently undergoing a renovation which will give a better user experience
+and be easier to maintain in the future. The new Salon Manager will be built
+on Spring Boot, Angular 2, and MySQL.
 
+Though this project, I gained valuable experience in building production
+worthy applications. I like to say this is the project where I learned “what
+not to do” and look forward to continuing the rewrite of the project to get
+it to the next level.
 </description>
         <pubDate>Sun, 28 May 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/project/2017/05/28/salonmanager/</link>
@@ -174,17 +267,23 @@
       <item>
         <title>Wikipedia Quick Search</title>
         <description>
+Wikipedia quick search is a Chrome Extension which allows users to highlight
+a word on a webpage and do a quick Wikipedia search. It opens up Wikipedia
+in a popup window and allows the user to see what they searched for. It is
+perfect for searching people, places, teams, and events. This is the perfect
+tool for when you are browsing web pages and you don’t know something in an
+article.
 
-  
-    Google Chrome Extension which allows a user to highlight a word on a webpage and do a quick Wikipedia search.
-  
-  
-    Uses the Chrome Message Passing API to allow the extension to communicate with the webpage.
-  
-  
-    Injects a Content Script into the current webpage to allow the value of the highlighted text to be sent back to the extension.
-  
+Since it is a Chrome Extension, it uses the Chrome Message Passing API to allow
+the extension to communicate with the webpage. It injects a Content Script
+into the current webpage to allow the value of the highlighted text to be sent
+back to the extension.
 
+When designing this tool, speed and a minimalist design were the goals. The UI
+needed to be something that did not impact the what the user was looking at on
+their main screen and it needed the search needed to be fast to actually be
+useful. This is why directly searching the Wikipedia website and using a
+popup window were the best choices.
 </description>
         <pubDate>Wed, 01 Jun 2016 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/project/2016/06/01/wikipedia-quick-search/</link>
@@ -220,30 +319,6 @@ the MEAN stack.
         <pubDate>Sat, 28 May 2016 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/experience/2016/05/28/cse/</link>
         <guid isPermaLink="true">http://localhost:4000/experience/2016/05/28/cse/</guid>
-        
-        
-        <category>experience</category>
-        
-      </item>
-    
-      <item>
-        <title>Super America</title>
-        <description>
-
-  
-    Responded to customer complaints and swiftly resolved their issues to ensure and maintain customer satisfaction.
-  
-  
-    Assisted with checking in vendors to guarantee the correctness of their delivery of up to $10,000 in product.
-  
-  
-    Interacted with corporate managers to ensure the functionality of the store is to their operational standards.
-  
-
-</description>
-        <pubDate>Sat, 01 Aug 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/experience/2015/08/01/superamerica/</link>
-        <guid isPermaLink="true">http://localhost:4000/experience/2015/08/01/superamerica/</guid>
         
         
         <category>experience</category>
