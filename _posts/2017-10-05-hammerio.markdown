@@ -7,7 +7,7 @@ author: "Jack Meyer"
 github: "https://github.com/hammer-io/"
 ---
 <!-- Start Writing Below in Markdown -->
-[hammer-io](hammer-io.github.io) is a tooling suite for developing microservices in Node.js. I provides a command line application and web application to generate projects, a web application to view statistics about the application, and a monitoring framework to view the status of your application.
+[hammer-io](hammer-io.github.io) is a tooling suite for developing microservices in Node.js. It provides a command line application and web application to generate projects, a web application to view statistics about the application, and a monitoring framework to view the status of your application.
 
 Microservice development requires doing many different project configurations, which takes away time from developers from actually working on the part of the application that is going to make money. One of our goals at hammer-io is to eliminate most of the time and issues with project setup by giving you a opinionated, yet customizable, approach to setting up your Node.js application.
 
