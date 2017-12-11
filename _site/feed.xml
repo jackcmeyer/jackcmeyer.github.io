@@ -5,10 +5,10 @@
     <description></description>
     <link>www.jackcmeyer.com/</link>
     <atom:link href="www.jackcmeyer.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 Dec 2017 15:29:51 -0600</pubDate>
-    <lastBuildDate>Mon, 11 Dec 2017 15:29:51 -0600</lastBuildDate>
+    <pubDate>Mon, 11 Dec 2017 15:37:21 -0600</pubDate>
+    <lastBuildDate>Mon, 11 Dec 2017 15:37:21 -0600</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
-
+    
       <item>
         <title>A Reflection: The Volkswagen Ethical Scandal</title>
         <description>
@@ -20,12 +20,12 @@ I believe that the engineers at Volkswagen continued to implement algorithms the
         <pubDate>Fri, 01 Dec 2017 00:00:00 -0600</pubDate>
         <link>www.jackcmeyer.com/blog/2017/12/01/ethics-reflection/</link>
         <guid isPermaLink="true">www.jackcmeyer.com/blog/2017/12/01/ethics-reflection/</guid>
-
-
+        
+        
         <category>blog</category>
-
+        
       </item>
-
+    
       <item>
         <title>hammer.io (senior design project)</title>
         <description>
@@ -42,12 +42,12 @@ Are you curious about our work? You can follow development of our command line a
         <pubDate>Thu, 05 Oct 2017 00:00:00 -0500</pubDate>
         <link>www.jackcmeyer.com/project/2017/10/05/hammerio/</link>
         <guid isPermaLink="true">www.jackcmeyer.com/project/2017/10/05/hammerio/</guid>
-
-
+        
+        
         <category>project</category>
-
+        
       </item>
-
+    
       <item>
         <title>A Reflection: My General Education at Iowa State University</title>
         <description>
@@ -67,61 +67,61 @@ Overall, my general education classes have had a positive impact on my life insi
 General Education Courses I’ve Taken
 
 
-
-
+  
+    
       Course Title
       Course Number
-
-
-
-
+    
+  
+  
+    
       The Earth
       GEOL 101
-
-
+    
+    
       Introduction to Philosophy
       PHIL 201
-
-
+    
+    
       Survey of United States History II
       HIST 222
-
-
+    
+    
       Principles of Microeconomics
       ECON 101
-
-
+    
+    
       Introduction to Weather and Climate
       MTEOR 206
-
-
+    
+    
       Religion in America
       RELIG 210
-
-
+    
+    
       Technical Communication
       ENGL 314
-
-
+    
+    
       Fundamentals of Public Speaking
       SP CM 212
-
-
+    
+    
       Introduction to Sociology
       SOC 134
-
-
+    
+  
 
 </description>
         <pubDate>Thu, 05 Oct 2017 00:00:00 -0500</pubDate>
         <link>www.jackcmeyer.com/blog/2017/10/05/general-education-reflection/</link>
         <guid isPermaLink="true">www.jackcmeyer.com/blog/2017/10/05/general-education-reflection/</guid>
-
-
+        
+        
         <category>blog</category>
-
+        
       </item>
-
+    
       <item>
         <title>A Reflection: My Cumulative Education at Iowa State University</title>
         <description>
@@ -157,12 +157,12 @@ If I were to do my undergraduate degree over again, I would have been more focus
         <pubDate>Thu, 05 Oct 2017 00:00:00 -0500</pubDate>
         <link>www.jackcmeyer.com/blog/2017/10/05/cumulative-education-reflection/</link>
         <guid isPermaLink="true">www.jackcmeyer.com/blog/2017/10/05/cumulative-education-reflection/</guid>
-
-
+        
+        
         <category>blog</category>
-
+        
       </item>
-
+    
       <item>
         <title>Smart Sync</title>
         <description>
@@ -192,53 +192,53 @@ architecture. We designed an API which allows all of the components of the
 project to communicate with one another.
 
 
-
+  
     Click here to view the architecture document
-
-
+  
+  
     Click here to view the server side code
-
-
+  
+  
     Click here to view the client side code
-
+  
 
 </description>
         <pubDate>Mon, 29 May 2017 00:00:00 -0500</pubDate>
         <link>www.jackcmeyer.com/project/2017/05/29/smartsync/</link>
         <guid isPermaLink="true">www.jackcmeyer.com/project/2017/05/29/smartsync/</guid>
-
-
+        
+        
         <category>project</category>
-
+        
       </item>
-
+    
       <item>
         <title>Telligen</title>
         <description>
 
-
+  
     Worked on a web application which allows measure developers to create and export health quality measures
-
-
+  
+  
     Helped develop an application which allows non-technical users use a domain specific programming language to create health record queries
-
-
+  
+  
     Developed new features, using Java Spring, Google Web Toolkit, and MySQL, which adhered to strict specifications
-
-
+  
+  
     Modified and implemented an open source project to increase usability in the application
-
+  
 
 </description>
         <pubDate>Sun, 28 May 2017 00:00:00 -0500</pubDate>
         <link>www.jackcmeyer.com/experience/2017/05/28/telligen/</link>
         <guid isPermaLink="true">www.jackcmeyer.com/experience/2017/05/28/telligen/</guid>
-
-
+        
+        
         <category>experience</category>
-
+        
       </item>
-
+    
       <item>
         <title>Salon Manager</title>
         <description>
@@ -265,42 +265,42 @@ it to the next level.
         <pubDate>Sun, 28 May 2017 00:00:00 -0500</pubDate>
         <link>www.jackcmeyer.com/project/2017/05/28/salonmanager/</link>
         <guid isPermaLink="true">www.jackcmeyer.com/project/2017/05/28/salonmanager/</guid>
-
-
+        
+        
         <category>project</category>
-
+        
       </item>
-
+    
       <item>
         <title>Iowa State Software Engineering Department</title>
         <description>
 
-
+  
     Helped kickstart the peer mentor program for the Iowa State Software Engineering Department by being selected to be in the first group of peer mentors
-
-
+  
+  
     Guided a small group of 20 freshmen through their first year at the university
-
-
+  
+  
     Provided advice to freshmen, including advice about course scheduling, life on campus, and social issues
-
-
+  
+  
     Assisted students through their introductory to programming courses by holding small group meetings and workshops
-
-
+  
+  
     Presented on technical topics such as Introduction to Git and Introduction to Web Development
-
+  
 
 </description>
         <pubDate>Sat, 27 May 2017 00:00:00 -0500</pubDate>
         <link>www.jackcmeyer.com/experience/2017/05/27/peermentor/</link>
         <guid isPermaLink="true">www.jackcmeyer.com/experience/2017/05/27/peermentor/</guid>
-
-
+        
+        
         <category>experience</category>
-
+        
       </item>
-
+    
       <item>
         <title>Wikipedia Quick Search</title>
         <description>
@@ -325,42 +325,42 @@ popup window were the best choices.
         <pubDate>Wed, 01 Jun 2016 00:00:00 -0500</pubDate>
         <link>www.jackcmeyer.com/project/2016/06/01/wikipedia-quick-search/</link>
         <guid isPermaLink="true">www.jackcmeyer.com/project/2016/06/01/wikipedia-quick-search/</guid>
-
-
+        
+        
         <category>project</category>
-
+        
       </item>
-
+    
       <item>
         <title>Iowa State Computer Science and Sofware Engineering Club</title>
         <description>
 
-
+  
     Unanimously elected President of the Iowa State Computer Science and Software Engineering club by my peers in the club
-
-
+  
+  
     Planned and hosted one of the largest club events in recent history; with over 110 people in attendance
-
-
+  
+  
     Tripled the end-of-the-year attendance compared to the previous year
-
-
+  
+  
     Worked closely with factuly, industry members, and students to plan and execute events
-
-
+  
+  
     Presented several technical presentations, including talks on Spring Boot and
 the MEAN stack.
-
+  
 
 </description>
         <pubDate>Sat, 28 May 2016 00:00:00 -0500</pubDate>
         <link>www.jackcmeyer.com/experience/2016/05/28/cse/</link>
         <guid isPermaLink="true">www.jackcmeyer.com/experience/2016/05/28/cse/</guid>
-
-
+        
+        
         <category>experience</category>
-
+        
       </item>
-
+    
   </channel>
 </rss>
