@@ -2,62 +2,62 @@ callback([
 
   {
     "text": "New Prague Basketball",
-    "href": "www.jackcmeyer.com/experience/2015/06/01/coach/"
+    "href": "http://localhost:4000/experience/2015/06/01/coach/"
   } ,
 
   {
     "text": "Super America",
-    "href": "www.jackcmeyer.com/experience/2015/08/01/superamerica/"
+    "href": "http://localhost:4000/experience/2015/08/01/superamerica/"
   } ,
 
   {
     "text": "Iowa State Computer Science and Sofware Engineering Club",
-    "href": "www.jackcmeyer.com/experience/2016/05/28/cse/"
+    "href": "http://localhost:4000/experience/2016/05/28/cse/"
   } ,
 
   {
     "text": "Wikipedia Quick Search",
-    "href": "www.jackcmeyer.com/project/2016/06/01/wikipedia-quick-search/"
+    "href": "http://localhost:4000/project/2016/06/01/wikipedia-quick-search/"
   } ,
 
   {
     "text": "Iowa State Software Engineering Department",
-    "href": "www.jackcmeyer.com/experience/2017/05/27/peermentor/"
+    "href": "http://localhost:4000/experience/2017/05/27/peermentor/"
   } ,
 
   {
     "text": "Salon Manager",
-    "href": "www.jackcmeyer.com/project/2017/05/28/salonmanager/"
+    "href": "http://localhost:4000/project/2017/05/28/salonmanager/"
   } ,
 
   {
     "text": "Telligen",
-    "href": "www.jackcmeyer.com/experience/2017/05/28/telligen/"
+    "href": "http://localhost:4000/experience/2017/05/28/telligen/"
   } ,
 
   {
     "text": "Smart Sync",
-    "href": "www.jackcmeyer.com/project/2017/05/29/smartsync/"
+    "href": "http://localhost:4000/project/2017/05/29/smartsync/"
   } ,
 
   {
     "text": "A Reflection: My Cumulative Education at Iowa State University",
-    "href": "www.jackcmeyer.com/blog/2017/10/05/cumulative-education-reflection/"
+    "href": "http://localhost:4000/blog/2017/10/05/cumulative-education-reflection/"
   } ,
 
   {
     "text": "A Reflection: My General Education at Iowa State University",
-    "href": "www.jackcmeyer.com/blog/2017/10/05/general-education-reflection/"
+    "href": "http://localhost:4000/blog/2017/10/05/general-education-reflection/"
   } ,
 
   {
     "text": "hammer.io",
-    "href": "www.jackcmeyer.com/project/2017/10/05/hammerio/"
+    "href": "http://localhost:4000/project/2017/10/05/hammerio/"
   } ,
 
   {
     "text": "A Reflection: The Volkswagen Ethical Scandal",
-    "href": "www.jackcmeyer.com/blog/2017/12/01/ethics-reflection/"
+    "href": "http://localhost:4000/blog/2017/12/01/ethics-reflection/"
   } 
 
 ])
