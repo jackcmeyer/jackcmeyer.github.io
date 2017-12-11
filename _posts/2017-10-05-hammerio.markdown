@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "hammer.io"
+title: "hammer.io (senior design project)"
 subtitle: "An opinionated approach to managing DevOps for a Node.js microservices application."
 category: "project"
 author: "Jack Meyer"

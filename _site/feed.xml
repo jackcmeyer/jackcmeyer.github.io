@@ -3,10 +3,10 @@
   <channel>
     <title>Jack Meyer</title>
     <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 Dec 2017 15:28:31 -0600</pubDate>
-    <lastBuildDate>Mon, 11 Dec 2017 15:28:31 -0600</lastBuildDate>
+    <link>www.jackcmeyer.com/</link>
+    <atom:link href="www.jackcmeyer.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 11 Dec 2017 15:29:51 -0600</pubDate>
+    <lastBuildDate>Mon, 11 Dec 2017 15:29:51 -0600</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -18,8 +18,8 @@ If I were an engineer on the Volkswagen project, I would have tried my hardest t
 I believe that the engineers at Volkswagen continued to implement algorithms they knew were unethical because they had no other options. For example, there might have been clauses in contracts that prevented them from talking to anybody about things that happened at work. This might have scared off many engineers in talking to people outside of the company. Next, there was probably a toxic relationship between developers and middle managers which prevented the engineers from talking with their managers. Without a good relationship between developers and managers, it would be very hard for developers to communicate concerns about the company’s direction and decisions to their manager. Finally, there was probably a lack of options for communicating with the HR department of the company. The engineers probably felt that the HR department was not going to help the engineer and protect the company rather than the employee. They probably felt that if they were to talk to anyone within the company about this ethical violation, they would lose their jobs. This caused everyone to stay quiet and just do the work they were told to do. Which resulted in a huge ethical violation.
 </description>
         <pubDate>Fri, 01 Dec 2017 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/blog/2017/12/01/ethics-reflection/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2017/12/01/ethics-reflection/</guid>
+        <link>www.jackcmeyer.com/blog/2017/12/01/ethics-reflection/</link>
+        <guid isPermaLink="true">www.jackcmeyer.com/blog/2017/12/01/ethics-reflection/</guid>
         
         
         <category>blog</category>
@@ -27,7 +27,7 @@ I believe that the engineers at Volkswagen continued to implement algorithms the
       </item>
     
       <item>
-        <title>hammer.io</title>
+        <title>hammer.io (senior design project)</title>
         <description>
 hammer-io is a tooling suite for developing microservices in Node.js. It provides a command line application and web application to generate projects, a web application to view statistics about the application, and a monitoring framework to view the status of your application.
 
@@ -40,8 +40,8 @@ On the hammer-io team, I lead the Software Architecture conversations, play the 
 Are you curious about our work? You can follow development of our command line application, Tyr, here and our web application, Yggdrasil, here. Want to install our command line application? Visit our npm page!
 </description>
         <pubDate>Thu, 05 Oct 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/project/2017/10/05/hammerio/</link>
-        <guid isPermaLink="true">http://localhost:4000/project/2017/10/05/hammerio/</guid>
+        <link>www.jackcmeyer.com/project/2017/10/05/hammerio/</link>
+        <guid isPermaLink="true">www.jackcmeyer.com/project/2017/10/05/hammerio/</guid>
         
         
         <category>project</category>
@@ -114,8 +114,8 @@ General Education Courses I’ve Taken
 
 </description>
         <pubDate>Thu, 05 Oct 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/2017/10/05/general-education-reflection/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2017/10/05/general-education-reflection/</guid>
+        <link>www.jackcmeyer.com/blog/2017/10/05/general-education-reflection/</link>
+        <guid isPermaLink="true">www.jackcmeyer.com/blog/2017/10/05/general-education-reflection/</guid>
         
         
         <category>blog</category>
@@ -127,8 +127,8 @@ General Education Courses I’ve Taken
         <description>
 </description>
         <pubDate>Thu, 05 Oct 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/2017/10/05/cumulative-education-reflection/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2017/10/05/cumulative-education-reflection/</guid>
+        <link>www.jackcmeyer.com/blog/2017/10/05/cumulative-education-reflection/</link>
+        <guid isPermaLink="true">www.jackcmeyer.com/blog/2017/10/05/cumulative-education-reflection/</guid>
         
         
         <category>blog</category>
@@ -176,8 +176,8 @@ project to communicate with one another.
 
 </description>
         <pubDate>Mon, 29 May 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/project/2017/05/29/smartsync/</link>
-        <guid isPermaLink="true">http://localhost:4000/project/2017/05/29/smartsync/</guid>
+        <link>www.jackcmeyer.com/project/2017/05/29/smartsync/</link>
+        <guid isPermaLink="true">www.jackcmeyer.com/project/2017/05/29/smartsync/</guid>
         
         
         <category>project</category>
@@ -203,8 +203,8 @@ project to communicate with one another.
 
 </description>
         <pubDate>Sun, 28 May 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/experience/2017/05/28/telligen/</link>
-        <guid isPermaLink="true">http://localhost:4000/experience/2017/05/28/telligen/</guid>
+        <link>www.jackcmeyer.com/experience/2017/05/28/telligen/</link>
+        <guid isPermaLink="true">www.jackcmeyer.com/experience/2017/05/28/telligen/</guid>
         
         
         <category>experience</category>
@@ -235,8 +235,8 @@ not to do” and look forward to continuing the rewrite of the project to get
 it to the next level.
 </description>
         <pubDate>Sun, 28 May 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/project/2017/05/28/salonmanager/</link>
-        <guid isPermaLink="true">http://localhost:4000/project/2017/05/28/salonmanager/</guid>
+        <link>www.jackcmeyer.com/project/2017/05/28/salonmanager/</link>
+        <guid isPermaLink="true">www.jackcmeyer.com/project/2017/05/28/salonmanager/</guid>
         
         
         <category>project</category>
@@ -265,8 +265,8 @@ it to the next level.
 
 </description>
         <pubDate>Sat, 27 May 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/experience/2017/05/27/peermentor/</link>
-        <guid isPermaLink="true">http://localhost:4000/experience/2017/05/27/peermentor/</guid>
+        <link>www.jackcmeyer.com/experience/2017/05/27/peermentor/</link>
+        <guid isPermaLink="true">www.jackcmeyer.com/experience/2017/05/27/peermentor/</guid>
         
         
         <category>experience</category>
@@ -295,8 +295,8 @@ useful. This is why directly searching the Wikipedia website and using a
 popup window were the best choices.
 </description>
         <pubDate>Wed, 01 Jun 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/project/2016/06/01/wikipedia-quick-search/</link>
-        <guid isPermaLink="true">http://localhost:4000/project/2016/06/01/wikipedia-quick-search/</guid>
+        <link>www.jackcmeyer.com/project/2016/06/01/wikipedia-quick-search/</link>
+        <guid isPermaLink="true">www.jackcmeyer.com/project/2016/06/01/wikipedia-quick-search/</guid>
         
         
         <category>project</category>
@@ -326,8 +326,8 @@ the MEAN stack.
 
 </description>
         <pubDate>Sat, 28 May 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/experience/2016/05/28/cse/</link>
-        <guid isPermaLink="true">http://localhost:4000/experience/2016/05/28/cse/</guid>
+        <link>www.jackcmeyer.com/experience/2016/05/28/cse/</link>
+        <guid isPermaLink="true">www.jackcmeyer.com/experience/2016/05/28/cse/</guid>
         
         
         <category>experience</category>
